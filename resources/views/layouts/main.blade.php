@@ -42,10 +42,7 @@
         </nav>
       </header>
 
-
       @yield('content')
-
-
 
       <footer>
         <p>HDC Events &copy; 2020</p>
